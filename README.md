@@ -12,11 +12,11 @@
 
 | 实验 | 名称 | I/O 数量 | 难度 | 视频 |
 |------|------|----------|------|------|
-| 实验一 | LED 数码显示 | 9 | 低 | [视频](experiment-01-led-display/media/demo.mp4) |
-| 实验二 | 步进电机控制 | 12 | 中 | [视频](experiment-02-stepper-motor/media/demo.mp4) |
-| 实验三 | 直线运动位置检测、定位控制 | 8 | 中 | [视频](experiment-03-linear-position/media/demo.mp4) |
-| 实验四 | 机械手顺序控制 | 11 | 中高 | [视频](experiment-04-manipulator/media/demo.mp4) |
-| 实验五 | 四层电梯控制 | 30 | 高 | [视频](experiment-05-elevator/media/demo.mp4) |
+| 实验一 | LED 数码显示 | 9 | 低 | [视频](experiment-01-led-display/demo1.mp4) |
+| 实验二 | 步进电机控制 | 12 | 中 | [视频](experiment-02-stepper-motor/demo2.mp4) |
+| 实验三 | 直线运动位置检测、定位控制 | 8 | 中 | [视频](experiment-03-linear-position/demo3.mp4) |
+| 实验四 | 机械手顺序控制 | 11 | 中高 | [视频](experiment-04-manipulator/demo4.mp4) |
+| 实验五 | 四层电梯控制 | 30 | 高 | [视频](experiment-05-elevator/demo5.mp4) |
 
 其中，**实验五（四层电梯控制）** 是 I/O 点最多、逻辑最复杂的实验，建议重点查看。
 
